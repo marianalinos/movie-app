@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 const Search = () => {
   return (
     <View>
-      <Text> textInComponent </Text>
+      <Text> The Search Page! </Text>
     </View>
   );
 };

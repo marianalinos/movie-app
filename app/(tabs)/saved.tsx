@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 const Saved = () => {
   return (
     <View>
-      <Text> textInComponent </Text>
+      <Text> The Saved page! </Text>
     </View>
   );
 };

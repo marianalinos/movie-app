@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 const Profile = () => {
   return (
     <View>
-      <Text> textInComponent </Text>
+      <Text> The Profile Page! </Text>
     </View>
   );
 };
