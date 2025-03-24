@@ -1,4 +1,4 @@
-# **Movie App**  
+# **Movie App**  - Projeto em Desenvolvimento
 
 Um aplicativo de filmes desenvolvido em **React Native** usando o framework **Expo**.  
 
