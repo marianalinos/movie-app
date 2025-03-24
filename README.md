@@ -1,50 +1,41 @@
-# Welcome to your Expo app 👋
+# **Movie App**  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Um aplicativo de filmes desenvolvido em **React Native** usando o framework **Expo**.  
 
-## Get started
+Este app permite explorar informações sobre filmes populares, ver avaliações, pesquisar filmes, entre outras funcionalidades, utilizando uma API de filmes.  
 
-1. Install dependencies
+## **Começando**  
 
-   ```bash
-   npm install
-   ```
+Siga os passos abaixo para configurar e executar o aplicativo no seu ambiente de desenvolvimento.  
 
-2. Start the app
+### **1. Instale as dependências**  
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+Antes de executar o app, você precisa instalar todas as dependências necessárias. Execute o seguinte comando no terminal:  
 
 ```bash
-npm run reset-project
-```
+npm install
+```  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### **2. Inicie o aplicativo**  
 
-## Learn more
+Após instalar as dependências, inicie o servidor de desenvolvimento com o comando:  
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+npx expo start
+```  
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Isso abrirá uma interface com várias opções para executar o aplicativo:  
 
-## Join the community
+- **Emulador Android** *(Se você configurou o Android Studio)*  
+  - [Guia para configurar o emulador Android](https://docs.expo.dev/workflow/android-studio-emulator/)  
+- **Simulador iOS** *(Disponível apenas para usuários macOS)*  
+  - [Guia para configurar o simulador iOS](https://docs.expo.dev/workflow/ios-simulator/)  
+- **Expo Go** *(Aplicativo para teste rápido, mas com limitações)*  
+  - Baixe o [Expo Go](https://expo.dev/go) no seu celular e escaneie o QR code exibido no terminal.  
 
-Join our community of developers creating universal apps.
+### **Pronto!**  
+Agora você pode explorar o **Movie App**! 🚀  
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---  
+
+Este projeto foi desenvolvido para fins educacionais! Foi utilizado o tutorial [deste video](https://youtu.be/f8Z9JyB2EIE) para desenvolver a aplicação e futuramente irei personalizar para dar minha cara ao aplicativo e, claro, aprofundar meus conhecimentos. 🎬
